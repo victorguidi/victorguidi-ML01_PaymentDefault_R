@@ -1,6 +1,5 @@
-setwd("C:/Users/vsgui/Documents/RProjects/DSA-ML-Project02")
+setwd("")
 getwd()
-
 
 #Installing the packages
 install.packages("Amelia") #Functions to work with null values
